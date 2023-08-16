@@ -9,7 +9,7 @@ AWS Amplify
 
 ## Visit the application here: https://main.dy8ptiuetuxsx.amplifyapp.com/
 
-#Header and Hero Component
+# Header and Hero Component
 ![Screenshot 2023-08-16 at 3 59 24 PM](https://github.com/mattmoniz/modern_react_website/assets/4000619/040b2aca-0208-4e9e-9b40-a2dbb469f2a3)
 
 # Business Section
